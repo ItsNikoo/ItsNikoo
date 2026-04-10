@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Никита — Frontend Developer
 
-<!--
-**ItsNikoo/ItsNikoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю современные веб-приложения с упором на архитектуру, производительность и удобство пользователя.
+Работаю как с фронтендом, так и с backend-частью для построения полноценных систем.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Стек
+
+**Frontend:**
+Vue, React, TypeScript, Next.JS, Pinia, REST API
+
+**Backend:**
+FastAPI, Django, Node.js
+
+**Базы данных:**
+PostgreSQL, MySQL, SQLite
+
+**Инструменты:**
+Docker, Git, GitHub Actions
+
+---
+
+## 📌 Проекты
+
+### 🔹 Finance Tracker
+
+Fullstack-приложение для учета финансов и аналитики
+Стек: Vue JS, TypeScript, Pinia
+
+- Управление транзакциями
+- Категории и лимиты
+- Графики и аналитика
+- Работа с менеджером состояний Pinia
+
+👉 [[Ссылка на репозиторий](https://github.com/ItsNikoo/finance-tracker)]
+
+---
+
+### 🔹 Кухни АБТ
+
+Интернет-каталог для бизнеса по производству корпусной мебели
+Стек: React, Next.js, TypeScript, Django, PostgreSQL, Docker
+
+- Публичный каталог мебели с категориями, карточками товаров и SEO-friendly маршрутами.
+- Раздел акций и готовых предложений с отдельными страницами и собственной моделью данных.
+- Фильтрация товаров и акционных позиций по категории, стилю и материалу.
+- Карточки товаров и акций с галереями изображений, ценой и описанием.
+- Взаимодействие с S3 хранилищем фотографий 
+- Формы обратной связи и заявок с сохранением в базе и отправкой email-уведомления менеджеру.
+- Раздел отзывов с рейтингом, фотографиями и управлением из админ-интерфейса.
+- Защищенная админ-панель с авторизацией по токену для CRUD-операций над каталогом и контентом.
+- Production-окружение через Docker Compose с Nginx, PostgreSQL, Next.js, Django и SSL через certbot.
+👉 [[Ссылка на репозиторий](https://github.com/ItsNikoo/abt_furniture)]
+
+---
+## 🧠 Подход к разработке
+
+* Чистый и поддерживаемый код
+* Разделение логики и архитектуры
+* Работа с реальным backend, а не mock-данными
+* Ориентация на production-проекты
+
+---
+
+## 📫 Контакты
+
+Telegram: @Venyorinee
+Email: [perminovni@gmail.com](mailto:perminovni@gmail.com)
+
+---
